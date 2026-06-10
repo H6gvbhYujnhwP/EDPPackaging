@@ -59,7 +59,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
           {/* Logo — large, top-right feel via flex order */}
           <Link href="/" className="flex-shrink-0 order-first">
             <img
-              src="/manus-storage/edp_logo_transparent_64e9ccf3.png"
+              src="/edp-logo.png"
               alt="EDP Packaging — UK Cardboard Box Manufacturers"
               className="h-16 w-auto object-contain"
             />
@@ -228,7 +228,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
             <div className="lg:col-span-1">
               <Link href="/">
                 <img
-                  src="/manus-storage/edp_logo_transparent_64e9ccf3.png"
+                  src="/edp-logo.png"
                   alt="EDP Packaging"
                   className="h-20 w-auto object-contain mb-4 brightness-0 invert"
                 />
