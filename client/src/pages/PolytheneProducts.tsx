@@ -27,8 +27,8 @@ const PRODUCTS = [
     img: "https://images.unsplash.com/photo-1553413077-190dd305871c?w=600&auto=format&fit=crop",
   },
   {
-    title: "Polythene Sacks",
-    desc: "Heavy duty polythene sacks for waste, storage, and industrial use. Available in clear, black, and coloured. Sizes from small bin liners to large industrial sacks. Various gauges available.",
+    title: "Polythene Bags",
+    desc: "Polythene bags and sacks for waste, storage, and industrial use. Available in clear, black, and coloured. Sizes from small bin liners to large industrial sacks. Various gauges available.",
     features: ["Heavy duty grades", "Clear, black & coloured", "Multiple sizes", "Industrial & domestic"],
     img: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&auto=format&fit=crop",
   },
