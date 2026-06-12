@@ -194,8 +194,8 @@ export default function Home() {
                 className="text-4xl lg:text-5xl xl:text-6xl font-black leading-tight mb-5"
                 style={{ color: "oklch(0.22 0.01 260)", fontFamily: "'Nunito', sans-serif" }}
               >
-                A World of Packaging{" "}
-                <span style={{ color: "oklch(0.32 0.12 255)" }}>on Your Doorstep</span>
+                Your local{" "}
+                <span style={{ color: "oklch(0.32 0.12 255)" }}>packaging supplier</span>
               </h1>
               <p className="text-lg text-gray-600 leading-relaxed mb-8 max-w-lg" style={{ fontFamily: "'Nunito Sans', sans-serif" }}>
                 Over 30 years of cardboard box manufacturing and packaging distribution. From a single bespoke box to 100,000 — EDP delivers quality, service and the best prices in the UK.
@@ -225,9 +225,14 @@ export default function Home() {
               </div>
             </div>
 
-            {/* Animated box scene */}
-            <div className="flex items-center justify-center">
-              <AnimatedBoxScene />
+            {/* Product range image */}
+            <div className="flex items-center justify-center animate-fade-up">
+              <img
+                src="/edp-products-range.png"
+                alt="EDP Full Packaging Range — Cardboard Boxes, Bubble Wrap, Tape and More"
+                className="w-full max-w-xl object-contain drop-shadow-xl"
+                style={{ filter: "drop-shadow(0 20px 40px rgba(0,0,0,0.12))" }}
+              />
             </div>
           </div>
         </div>
