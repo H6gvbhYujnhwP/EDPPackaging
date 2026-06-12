@@ -51,7 +51,7 @@ const PRODUCTS = [
     title: "Archive Storage Boxes",
     desc: "Strong, stackable archive boxes for document and file storage. Ideal for offices, solicitors, accountants, and any business needing secure document storage. Lids available separately.",
     features: ["Stackable design", "Secure document storage", "Lids available", "Bulk pricing"],
-    img: "https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=600&auto=format&fit=crop",
+    img: "/archive-storage-boxes.jpg",
   },
 ];
 
