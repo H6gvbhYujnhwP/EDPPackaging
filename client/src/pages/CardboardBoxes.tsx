@@ -39,13 +39,13 @@ const PRODUCTS = [
     title: "Pizza Style Flat Boxes",
     desc: "Flat-pack style boxes with a hinged lid, ideal for artwork, prints, clothing, and flat items. Also popular as pizza boxes for the food industry. Available in a range of sizes.",
     features: ["Flat-pack design", "Hinged lid", "Food industry approved", "Multiple sizes"],
-    img: "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=600&auto=format&fit=crop",
+    img: "/pizza-boxes.jpg",
   },
   {
     title: "Export Pallet Boxes",
     desc: "Heavy-duty export boxes designed for pallet shipping. These large, robust boxes are ideal for bulk goods, industrial components, and export shipments. Available in double and triple wall grades.",
     features: ["Heavy duty construction", "Pallet compatible", "Triple wall available", "Export certified"],
-    img: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&auto=format&fit=crop",
+    img: "/export-pallet-boxes.jpg",
   },
   {
     title: "Archive Storage Boxes",
