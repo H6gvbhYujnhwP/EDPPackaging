@@ -33,7 +33,7 @@ const PRODUCTS = [
     title: "Bespoke Cardboard Boxes",
     desc: "Can't find the size you need? EDP specialises in manufacturing bespoke cardboard boxes to your exact specification. Whether you need a unique size, a specific board grade, or custom printing, we can help. Minimum quantities apply.",
     features: ["Any size made to order", "Custom board grades", "Print options available", "Competitive pricing"],
-    img: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=600&auto=format&fit=crop",
+    img: "/bespoke-cardboard-boxes.webp",
   },
   {
     title: "Pizza Style Flat Boxes",

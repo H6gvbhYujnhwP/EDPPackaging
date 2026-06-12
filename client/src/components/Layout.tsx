@@ -61,7 +61,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
             <img
               src="/edp-logo.png"
               alt="EDP Packaging — UK Cardboard Box Manufacturers"
-              className="h-16 w-auto object-contain"
+              className="h-32 w-auto object-contain"
             />
           </Link>
 
